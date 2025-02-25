@@ -44,15 +44,15 @@ export const Footer = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <MapPin className="h-5 w-5 mr-2 text-blue-500" />
-                <p>123 Avenue des Voyages, 75000 Paris</p>
+                <p>123 Avenue des Voyages, 75000 Abidjan</p>
               </div>
               <div className="flex items-center">
                 <Phone className="h-5 w-5 mr-2 text-blue-500" />
-                <p>01 23 45 67 89</p>
+                <p>01 00 00 67 89</p>
               </div>
               <div className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-blue-500" />
-                <p>contact@voyagexplore.fr</p>
+                <p>contact@voyagexplore.com</p>
               </div>
             </div>
           </div>
